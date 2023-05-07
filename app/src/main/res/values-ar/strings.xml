@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">محول العملات</string>
+    <string name="appwidget_text">مثال</string>
+    <string name="add_widget">إضافة القطعة</string>
+    <string name="app_widget_description">هذا هو وصف القطعة التطبيق</string>
+    <string name="sign_up">اشتراك</string>
+    <string name="currency">عملة</string>
+    <string name="dot">.</string>
+    <string name="afn">EUR</string>
+    <string name="refresh">ينعش</string>
+    <string name="convert">يتحول</string>
+    <string name="contact">اتصال</string>
+    <string name="converter">محول</string>
+    <string name="from">من</string>
+    <string name="to">ل</string>
+    <string name="amount">مبلغ</string>
+    <string name="result">نتيجة</string>
+    <string name="converted_amount">المبلغ المحول</string>
+    <string name="erreur1">لا يوجد اتصال ، يرجى تفعيله !!!</string>
+    <string name="erreur2">حاول مرة أخرى !!!</string>
+</resources>

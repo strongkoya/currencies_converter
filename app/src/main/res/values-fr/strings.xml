@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Convertisseur de devises</string>
+    <string name="appwidget_text">EXEMPLE</string>
+    <string name="add_widget">Ajouter un widget</string>
+    <string name="app_widget_description">Ceci est une description de widget d\'application</string>
+    <string name="sign_up">S\'inscrire</string>
+    <string name="currency">Monnaie</string>
+    <string name="dot">.</string>
+    <string name="afn">EUR</string>
+    <string name="refresh">rafraîchir</string>
+    <string name="convert">Convertir</string>
+    <string name="contact">Contact</string>
+    <string name="converter">Convertisseur</string>
+    <string name="from">Depuis</string>
+    <string name="to">Pour</string>
+    <string name="amount">Montant</string>
+    <string name="result">Résultat</string>
+    <string name="converted_amount">Montant converti</string>
+    <string name="erreur1">Il n\'y a pas de connexion, veuillez l\'activer!!!</string>
+    <string name="erreur2">Essayez une autre fois !!!</string>
+</resources>
